@@ -1,6 +1,6 @@
 {
 	"name": "mongoose-relations",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Cache relational data in mongoose for easy querying.",
 	"main": "index.js",
 	"scripts": {
@@ -22,10 +22,10 @@
 	"devDependencies": {
 		"chai": "^1.10.0",
 		"gulp": "^3.8.10",
-		"mocha": "^2.1.0"
+		"mocha": "^2.1.0",
+		"mongoose": "^3.8.21"
 	},
 	"dependencies": {
 		"async": "^0.9.0",
-		"mongoose": "^3.8.21"
 	}
 }

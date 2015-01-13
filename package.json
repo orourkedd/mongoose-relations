@@ -1,6 +1,6 @@
 {
 	"name": "mongoose-relations",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "Cache relational data in mongoose for easy querying.",
 	"main": "index.js",
 	"scripts": {
